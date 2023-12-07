@@ -1,0 +1,18 @@
+{
+  "name": "Authenticator-TipsCode",
+  "version": "0.0.1",
+  "description": "Código do projeto do módulo de autenticação do curso full stack turbo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "mongoose": "^8.0.2",
+    "mongoose-encryption": "^2.1.2"
+  }
+}
